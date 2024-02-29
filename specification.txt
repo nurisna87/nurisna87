@@ -1,0 +1,28 @@
+// 10 HTML tags
+    1. <!--...--!>
+    2. <!DOCTYPE>
+    3. <a>
+    4. <article>
+    5. <br>
+    6. <div>
+    7. <embed>
+    8. <footer>
+    9. <form>
+    10. <header>
+
+// 5 CSS selectors
+    1. ul-navbar
+    2. li-navbar
+    3. container-navbar
+    4. container-content
+    5. container-footer
+
+// 5 CSS properties
+    1. padding
+    2. margin
+    3. text-decoration
+    4. display
+    5. background-color
+
+// How you chose to use JavaScript and Bootstrap
+    I chose to use JavaScript to make the website more dynamic and interactive. Specificly in this context I used it to blink welcoming message of the navigation bar. Furthermore, I used Bootstrap as well to ensure the website functions properly on all devices.
