@@ -78,23 +78,5 @@
         <!-- End of footer -->
 
     <!--Skrip php -->
-        <?php
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $message = $_POST['message'];
-    
-    $to = "isnaininurul87@gmail.com";
-    $subject = "Message from $name";
-    $body = "Name: $name\nEmail: $email\n\nPesan:\n$message";
-    
-    if (mail($to, $subject, $body)) {
-        echo "Message sent!";
-    } else {
-        echo "Sorry, an error occured in sending the message.";
-    }
-}
-?>
-
     </body>
 </html>
